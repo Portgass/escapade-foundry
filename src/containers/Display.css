@@ -1,0 +1,13 @@
+.Card {
+    margin: 24px auto;
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(38, 50, 56) !important;
+}
+
+.CardText {
+    padding: 20px 70px !important;
+    font-size: 18px !important;
+    font-family: "Roboto Mono" !important;
+    color: #cfd8dc !important;
+}
